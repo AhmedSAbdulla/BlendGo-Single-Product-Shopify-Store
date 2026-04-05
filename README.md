@@ -1,2 +1,3 @@
-# BlendGo-Single-Product-Shopify-Store
-BlendGo is a conversion-focused Shopify single product store for a portable blender. Built with a modern landing page structure, clean UI, product storytelling, and mobile-first design to showcase a healthy lifestyle brand.
+## Videos
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1nAtD3isaENSPKcn72BFCn1ZjT5ACs_SI)
